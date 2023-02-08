@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://tylerwetrust.github.io/swiftdecoding/
 languageCode: en-us
 title: Swift Decoding 
 theme: 'PaperMod'
