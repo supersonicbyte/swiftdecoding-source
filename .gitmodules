@@ -1,3 +1,6 @@
 [submodule "swiftdecoding-source/themes/PaperMod"]
 	path = swiftdecoding-source/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "sites"]
+	path = sites
+	url = git@github.com:tylerwetrust/swiftdecoding.git
